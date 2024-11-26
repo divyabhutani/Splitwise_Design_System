@@ -19,6 +19,6 @@ public abstract class Split{
     return amount;
   }
   public void setAmount(Double amount){
-    this.amount = amount;
+    this.amount = amount ;
   }
 }
